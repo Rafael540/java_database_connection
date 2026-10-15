@@ -53,7 +53,7 @@ public class Department implements Serializable {
 	}
 
 	public String toString() {
-		return "id = "+ id + "name = "+  name;
+		return " id = "+ id +  " name = "+  name;
 	}
 
 }
